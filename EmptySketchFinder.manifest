@@ -1,0 +1,9 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "addin",
+  "id": "EmptySketchFinder",
+  "author": "Autodesk Assistant",
+  "description": { "": "Find and list empty sketches in the active design" },
+  "version": "1.0.0",
+  "runOnStartup": false
+}
